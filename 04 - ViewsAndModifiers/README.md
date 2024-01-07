@@ -14,7 +14,7 @@
 
 ## 📝 What I Learned
 
-some View, Conditional modifiers, Environment modifiers, View Composition, Custom containers
+some View, Conditional modifiers, Environment modifiers, View Composition, Custom containers.
 
 ## 🏆 Challenges
 
