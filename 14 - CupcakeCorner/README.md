@@ -36,6 +36,6 @@ URLSession, disabled(), haptics, @Binding, @Bindable, AsyncImage and more.
 
 ## Resources
 
-- [Hacking with Swift - Moonshot (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/cake-corner-wrap-up)
+- [Hacking with Swift - CupcakeCorner (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/cake-corner-wrap-up)
 
 [<< 13 - Milestone 3](../13%20-%20Milestone%203/) | [15 - Bookworm >>](../15%20-%20Bookworm/)
