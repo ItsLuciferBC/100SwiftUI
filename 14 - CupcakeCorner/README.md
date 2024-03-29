@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Moonshot</h1>
+  <h1>CupcakeCorner</h1>
   <samp>Project 10</samp>
   <br/>
 
