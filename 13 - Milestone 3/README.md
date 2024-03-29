@@ -33,6 +33,6 @@
 
 ## Resources
 
-- [Hacking with Swift - Moonshot (Challenge)](https://www.hackingwithswift.com/guide/ios-swiftui/4/3/challenge)
+- [Hacking with Swift - Milestone 3 (Challenge)](https://www.hackingwithswift.com/guide/ios-swiftui/4/3/challenge)
 
 [<< 12 - Navigation](../12%20-%20Navigation/) | [14 - CupcakeCorner >>](../14%20-%20CupcakeCorner/)
