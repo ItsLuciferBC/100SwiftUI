@@ -27,6 +27,6 @@ Hashable, Codable, Equatable, Navigation Destination, Navigation Path.
 
 ## Resources
 
-- [Hacking with Swift - Moonshot (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/navigation-wrap-up)
+- [Hacking with Swift - Navigation (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/navigation-wrap-up)
 
 [<< 11 - Moonshot](../10%20-%20Moonshot/) | [13 - Milestone 3 >>](../13%20-%20Milestone%203/)
