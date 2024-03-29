@@ -36,6 +36,6 @@
 
 ## Resources
 
-- [Hacking with Swift - Moonshot (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/bookworm-wrap-up)
+- [Hacking with Swift - Bookworm (Challenge)](https://www.hackingwithswift.com/books/ios-swiftui/bookworm-wrap-up)
 
 [<< 14 - CupcakeCorner 3](../14%20-%20CupcakeCorner/) | [16 - SwiftDataProject >>](../15%20-%20SwiftDataProject/)
